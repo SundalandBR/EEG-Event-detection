@@ -4,7 +4,7 @@
 
 | **Paper Title**                                              | **Year** | **Conference/Journal** |
 | ------------------------------------------------------------ | ---- | ---------------------- |
-| [DOSED a deep learning approach to detect multiple sleep micro-events in EEG.pdf](DOSED a deep learning approach to detect multiple sleep micro-events in EEG.pdf) | 2019 | Journal of neuroscience methods |
+| [DOSED a deep learning approach to detect multiple sleep micro-events in EEG](DOSED a deep learning approach to detect multiple sleep micro-events in EEG.pdf) | 2019 | Journal of neuroscience methods |
 | [A robust deep learning detector for sleep spindles and K‑complexes: towards population norms](A robust deep learning detector.pdf) | 2024 | scientific reports |
 | [Hierarchical fusion detection algorithm for sleep spindle detection](fnins-17-1105696.pdf) | 2023 | Frontiers in Neuroscience |
 | [EEGNet: A Compact Convolutional Network for EEG-based Brain-Computer Interfaces](1611.08024v4.pdf) | 2016 | Journal of Neural Engineering     |
