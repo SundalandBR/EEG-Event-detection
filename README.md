@@ -11,6 +11,7 @@
 | [Detection and location of EEG events using deep learning visual inspection](journal.pone.0312763.pdf) | 2024 | PLOS ONE |
 | [Toward Sleep Spindle Detection: A Comparative Survey of State-of-the-Art, Challenges and Future Research](Toward_Sleep_Spindle_Detection_A_Comparative_Survey_of_State-of-the-Art_Challenges_and_Future_Research.pdf) | 2025 | IEEE ACCESS |
 | [From Sleep Staging to Spindle Detection: Evaluating End-to-End Automated Sleep Analysis](https://arxiv.org/pdf/2505.05371) | 2025 | arXiv                             |
+| [Advanced sleep spindle identification with neural networks](https://www.nature.com/articles/s41598-022-11210-y.pdf) | 2022 | scientific reports                |
 
 
 
